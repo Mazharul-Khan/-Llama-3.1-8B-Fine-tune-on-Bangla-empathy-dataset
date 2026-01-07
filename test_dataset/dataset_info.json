@@ -1,0 +1,36 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Topics": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Question-Title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Questions": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Answers": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "total_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "answer_len": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

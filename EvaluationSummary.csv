@@ -1,0 +1,2 @@
+experiment_id,perplexity,bleu,rouge_l,timestamp
+EXP_001,1.8306,0.2276,0.3598,2026-01-06 18:49:00.741647
